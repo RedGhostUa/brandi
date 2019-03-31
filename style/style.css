@@ -1,0 +1,51 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+header{
+background-image: url(../img/wp1.jpg);
+align-items: center;
+display: flex;
+background-size: cover;
+justify-content: center;
+background-repeat: no-repeat;
+}
+.FirstText{
+  margin: 30%;
+  text-align: center;
+}
+p {
+  font-size: 3rem;
+  color: rgba(115, 115, 115, 1)
+}
+#creative{
+color: red;
+}
+h2{
+  color: rgba(115, 115, 115, 1)
+}
+
+main{
+  display: flex;
+  background-color: rgb(0, 0, 0);
+  justify-content: space-between;
+}
+.content{
+  margin: 10px;
+  width: 400px;
+}
+img{
+  display: block;
+  width: 100%;
+}
+footer{
+  background-color: rgb(64, 64, 64);
+  display: flex;
+  justify-content: space-between;
+  padding: 5%
+}
+.footer{
+font-family: 'Reenie Beanie';
+font-size: 2rem;
+color: rgb(36, 232, 232);
+}
