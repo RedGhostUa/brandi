@@ -9,13 +9,14 @@ display: flex;
 background-size: cover;
 justify-content: center;
 background-repeat: no-repeat;
+padding: 18.5%;
 }
 .FirstText{
-  margin:15%;
+  width: 100%;
   text-align: center;
 }
 p {
-  font-size: 3rem;
+  font-size: 2rem;
   color: rgba(115, 115, 115, 1)
 }
 #creative{
@@ -46,6 +47,6 @@ footer{
 }
 .footer{
 font-family: 'Reenie Beanie';
-font-size: 2rem;
+font-size: 1.5rem;
 color: rgb(36, 232, 232);
 }
